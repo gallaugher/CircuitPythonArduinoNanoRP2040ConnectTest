@@ -186,6 +186,6 @@ while True:
         strip.write()
     text_area.text = printString
     print(printString)
-    # time.sleep(0.1)
+    time.sleep(0.1)
 
 
